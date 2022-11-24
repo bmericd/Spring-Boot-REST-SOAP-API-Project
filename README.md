@@ -5,7 +5,7 @@ Bu Buğra Meriç Değirmenci
 
 ## Project Architecture
 
-![Project Architecture Diagram](images/ProjectArchitecture.png)
+![Project Architecture Diagram](images/ProjectArchitecture.PNG)
 
 ## User Entity
 
